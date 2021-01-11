@@ -1,0 +1,21 @@
+*{
+	box-sizing: border-box;
+}
+.table1{
+	background-color: #51abb5;
+    border: 20px solid grey;
+    margin-left: auto;
+    margin-right: 50%;
+    width: 500px;
+    border-spacing: 0;
+    padding: 1%;
+}
+.table2{
+	background-color: #51abb5;
+    border: 20px solid grey;
+    margin-left: auto;
+    margin-right: 50%;
+    width: 500px;
+    border-spacing: 0;
+    padding: 1%;
+}
